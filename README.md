@@ -38,4 +38,5 @@ EUWT4EE9X2-eyJsaWNlbnNlSWQiOiJFVVdUNEVFOVgyIiwibGljZW5zZWVOYW1lIjoic2lnbnVwIHNjb
 - Select `Conda Environment`.
 - Select `Use existing environment`.
 
-![img.png](assets/image-20250107154648182.png)
+![img](assets/image-20250107154648182.png)
+
