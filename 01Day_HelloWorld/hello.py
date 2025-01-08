@@ -65,7 +65,7 @@ print(" Done!")
 x = 10
 print("Hello, World!") if x > 5 else print("Goodbye, World!")
 
-# 12. Print the text with color
+# 12. Print the text with color(pip install colorama)
 from colorama import Fore, init
 
 init()  # Cross-platform settings
